@@ -1204,7 +1204,7 @@ import{r as O,w as Te,o as et,a as nt,i as Na,c as D,b as Ha,h as ja,d as pn,e a
  right: 0;
  top: 0;
  bottom: 0;
- width: 300px;
+ width: 80px;
  display: flex;
  align-items: center;
  transition: opacity .2s var(--n-bezier);
