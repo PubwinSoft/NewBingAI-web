@@ -28,7 +28,7 @@ export const useChatStore = defineStore(
         label: 'Bing 官方',
       },
       {
-        baseUrl: 'newbing-api.pandacloud.ink',
+        baseUrl: 'sydney.vcanbb.chat',
         label: 'PandaCloud',
       },
       {
